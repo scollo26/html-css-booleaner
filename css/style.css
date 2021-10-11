@@ -10,9 +10,12 @@ body{
 }
 
 .immagine{
-    background-image: image("../img/pattern.png");
+    background-image: url('../img/pattern.png');
     background-color: deepskyblue;
 }
+
+
+
 h1{
     font-family: 'Poppins', sans-serif;
 }

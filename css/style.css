@@ -12,16 +12,16 @@ body{
 .immagine{
     background-image: url('../img/pattern.png');
     background-color: deepskyblue;
+    height: 8em;
+    
 }
-
-
 
 h1{
     font-family: 'Poppins', sans-serif;
 }
 
 .grigio{
-    font-size: 1.2em;
+    font-size: 1em;
     color: darkgray;
 }
 .azzurro{
@@ -40,4 +40,18 @@ tag{
 .tabella-td{
     background-color:rgb(156, 212, 231);
     color: black;
+}
+
+.monitor{
+    background-image: url('../img/monitor.jpg');
+    height: 8em;
+    background-repeat: no-repeat;
+    color: blanchedalmond;
+}
+
+.graph{
+    background-image: url('../img/graph.jpg');
+    height: 8em;
+    background-repeat: no-repeat;
+    color: blanchedalmond;
 }

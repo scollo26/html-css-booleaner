@@ -53,6 +53,10 @@ h1{
     color: lightyellow;
     background-color: deepskyblue;
 }
+.padding-left{
+    padding-left: 2%;
+}
+
 .tabella-td{
     background-color:rgb(156, 212, 231);
     color: black;

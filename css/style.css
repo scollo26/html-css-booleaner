@@ -1,0 +1,38 @@
+.banner{
+    background-image: image(pattern.png);
+    background-color: deepskyblue; 
+    
+
+   
+}
+body{
+    width: auto;
+    margin:  auto;
+    padding: 70px;   
+}
+
+h1{
+    font-family: 'Poppins', sans-serif;
+}
+
+.grigio{
+    font-size: 1.2em;
+    color: darkgray;
+}
+.azzurro{
+    color: deepskyblue;
+}
+
+tag{
+    background-color:#f3f72e;
+}
+
+.tabella-head{
+    width: 35%;
+    color: lightyellow;
+    background-color: deepskyblue;
+}
+.tabella-td{
+    background-color:rgb(156, 212, 231);
+    color: black;
+}

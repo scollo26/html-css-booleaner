@@ -11,24 +11,42 @@ body{
 
 .immagine{
     background-image: url('../img/pattern.png');
-    background-color: deepskyblue;
+    background-color: rgba(41,194,255,0.5);
+    color: blanchedalmond;
     height: 8em;
     
 }
+.text{
+    max-width: 10em;
+ 
+    
+    
+
+}
+   
+    
+
+
+.scritta-left{
+     position: absolute;
+    bottom: 10em;
+    left: 16px;
+}
 
 h1{
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins', sans-serif;margin: 0em;
 }
 
 .grigio{
     font-size: 1em;
     color: darkgray;
+    margin-top: 0em;
 }
 .azzurro{
     color: deepskyblue;
 }
 
-tag{
+.yellow{
     background-color:#f3f72e;
 }
 

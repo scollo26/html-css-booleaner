@@ -22,11 +22,8 @@ body{
     margin-left: 0%;
 }
    
-    
-
-
 .scritta-left{
-     position: absolute;
+    position: absolute;
     bottom: 10em;
     left: 16px;
 }
@@ -48,13 +45,15 @@ h1{
     background-color:#f3f72e;
 }
 
+table{
+    border-spacing: 0px;
+    margin-left: 10px;
+}
+
 .tabella-head{
     width: 35%;
     color: lightyellow;
     background-color: deepskyblue;
-}
-.padding-left{
-    padding-left: 2%;
 }
 
 .tabella-td{
@@ -62,7 +61,13 @@ h1{
     color: black;
 }
 
+.padding-left{
+    padding-left: 2%;
+}
+
 .monitor{
+    width: 200px;
+    height: 200px;
     background-image: url('../img/monitor.jpg');
     height: 8em;
     background-repeat: no-repeat;
@@ -71,6 +76,8 @@ h1{
 }
 
 .graph{
+    width: 200px;
+    height: 200px;
     background-image: url('../img/graph.jpg');
     height: 8em;
     background-repeat: no-repeat;
